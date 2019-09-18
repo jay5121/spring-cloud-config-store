@@ -1,2 +1,3 @@
-file:
-  name: membership.yml
+server:
+  port: 8080
+  
