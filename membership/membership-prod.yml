@@ -1,2 +1,2 @@
-file:
-  name: membership-prod.yml
+server:
+  port: 8083
