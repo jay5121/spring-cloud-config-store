@@ -1,2 +1,2 @@
-file:
-  name: membership-dev.yml
+server:
+  port: 8082
