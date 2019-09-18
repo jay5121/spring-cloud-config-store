@@ -1,2 +1,2 @@
-file:
-  name: membership-qa.yml
+server:
+  port: 8085
